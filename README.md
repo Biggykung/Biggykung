@@ -15,10 +15,9 @@ Full-time student at Sirindhorn International Institute of Technology (SIIT) wor
  
 ![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,js,ts,python,java,c,cpp,html,css,mysql,arduino,playwright&theme=dark&perline=14)
  
-## Socials
- 
-<a href="https://github.com/Biggykung"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+Socials
+
+<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" /></a> <a href="https://github.com/Biggykung"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a> <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
  
 ## Badges
  
