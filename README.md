@@ -12,8 +12,9 @@ Full-time student at Sirindhorn International Institute of Technology (SIIT) wor
 - ⚡ Looking forward to building something useful together! 🚀
  
 ## Skills
- 
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,js,ts,python,java,c,cpp,html,css,mysql,arduino,playwright&theme=dark&perline=14)
+ <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48" /></a> <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48" /></a> <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="48" height="48" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48" /></a> <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48" /></a> <a href="https://openjdk.org"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="48" height="48" /></a> <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="48" height="48" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="48" height="48" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="48" height="48" /></a> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" height="48" /></a> <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="48" height="48" /></a> <a href="https://playwright.dev"><img src="https://skillicons.dev/icons?i=playwright&theme=dark" alt="Playwright" width="48" height="48" /></a>
+
+Also: SQL
  
 Socials
 
