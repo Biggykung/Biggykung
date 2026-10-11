@@ -17,7 +17,7 @@ Full-time student at Sirindhorn International Institute of Technology (SIIT) wor
  
 Socials
 
-<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" /></a> <a href="https://github.com/Biggykung"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a> <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/p.phn.wat.hn.cheiyw.run"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" /></a> <a href="https://github.com/Biggykung"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a> <a href="https://www.instagram.com/papwt_chwrrj/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/paponwat-cheawrongroj"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
  
 ## Badges
  
