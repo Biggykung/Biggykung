@@ -10,16 +10,15 @@ Full-time student at Sirindhorn International Institute of Technology (SIIT) wor
 - 🎯 I'm looking for a Data & Analytics internship where I can apply my technical foundation to real business data
 - 🤝 I'm open to collaborating on interesting projects or discussing ideas
 - ⚡ Looking forward to building something useful together! 🚀
-## Skills
  
 ## Skills
  
 ![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,js,ts,python,java,c,cpp,html,css,mysql,arduino,playwright&theme=dark&perline=14)
  
+## Socials
  
-[![GitHub](https://img.shields.io/badge/GitHub-Biggykung-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biggykung)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-ppw18019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppw18019@gmail.com)
+<a href="https://github.com/Biggykung"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
  
 ## Badges
  
